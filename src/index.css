@@ -27,11 +27,12 @@ body{
   background-color: #111637;
   color: #638efa;
   font-size: 2rem;
-  padding: 20px;
+  padding: 10px;
   border-radius: 12px;
   text-align: right;
   margin-bottom: 20px;
   overflow-x: auto;
+  min-height: 20px;
 }
 
 .buttons{

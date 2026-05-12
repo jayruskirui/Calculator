@@ -3,7 +3,7 @@ import { useState } from 'react'
 
 const App = () => {
 
-  const [input, setInput] = useState(" ");
+  const [input, setInput] = useState("");
 
   // Handleclick
   const handleClick= (value) => {
@@ -12,7 +12,7 @@ const App = () => {
 
   // handleClear
   const handleclear = () => {
-    setInput (" ");
+    setInput("");
   };
 
   // handleDelete
